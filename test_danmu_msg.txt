@@ -1,0 +1,59 @@
+{
+    'room_display_id': 23029447,
+    'room_real_id': 23029447,
+    'type': 'DANMU_MSG',
+    'data': {
+        'cmd': 'DANMU_MSG',
+        'info': [
+                    [
+                        0, 4, 25, 14893055, 1683616320830, 1683611950, 0, '3bbe9393', 0, 0, 5, '#1453BAFF,#4C2263A2,#3353BAFF', 0, '{}', '{}',
+                        {
+                            'mode': 0,
+                            'show_player_type': 0,
+                            'extra': '{
+                                "send_from_me":false,
+                                "mode":0,
+                                "color":14893055,
+                                "dm_type":0,
+                                "font_size":25,
+                                "player_mode":4,
+                                "show_player_type":0,
+                                "content":"这么近  mua一下",
+                                "user_hash":"1002345363",
+                                "emoticon_unique":"",
+                                "bulge_display":0,
+                                "recommend_score":0,
+                                "main_state_dm_color":"",
+                                "objective_state_dm_color":"",
+                                "direction":0,
+                                "pk_direction":0,
+                                "quartet_direction":0,
+                                "anniversary_crowd":0,
+                                "yeah_space_type":"",
+                                "yeah_space_url":"",
+                                "jump_to_url":"",
+                                "space_type":"",
+                                "space_url":"",
+                                "animation":{},
+                                "emots":null,
+                                "is_audited":false,
+                                "id_str":"10379cb0f5450707a88e0134f320887412"
+                            }'
+                        },
+                        {
+                            'activity_identity': '',
+                            'activity_source': 0,
+                            'not_show': 0
+                        }
+                    ],
+                    '这么近  mua一下',
+                    [13272760, '大早凉', 0, 0, 0, 10000, 1, '#00D1F1'],
+                    [25, '吃秋葵', '秋葵ovo', 23029447, 398668, '', 0, 6809855, 398668, 6850801, 3, 1, 1111372327],
+                    [20, 0, 6406234, '>50000', 3],
+                    ['', ''], 0, 3, None, {'ts': 1683616320, 'ct': '9C1CCA8'}, 0, 0, None, None, 0, 105
+        ],
+        'dm_v2': 'CiIxMDM3OWNiMGY1NDUwNzA3YTg4ZTAxMzRmMzIwODg3NDEyEAQYGSD//4wHKggzYmJlOTM5MzIU6L+Z5LmI6L+RICBtdWHkuIDkuIs4vprp+v8wSK7C56IGYiEIBRIdIzE0NTNCQUZGLCM0QzIyNjNBMiwjMzM1M0JBRkaKAQCaAQ8KBzlDMUNDQTgQwOTnogaiAaYBCLiNqgYSCeWkp+aXqeWHiRoHIzAwRDFGMSJKaHR0cHM6Ly9pMS5oZHNsYi5jb20vYmZzL2ZhY2UvOWVkMTZhYTAxODdmNTViZTgzNzM4OGJmZWI3MjgwMzE5ZjMxYzZmOS5qcGc4kE5AAVojCBkSCeWQg+eni+iRtSDMqhgw/9GfAzjMqhhA8ZGiA0gDUAFiEQgUENqAhwMaBj41MDAwMCADagByAKoBFgin5PiRBBIJ56eL6JG1b3ZvGMfN/Qo='
+    }
+}
+
+{'room_display_id': 23029447, 'room_real_id': 23029447, 'type': 'DANMU_MSG', 'data': {'cmd': 'DANMU_MSG', 'info': [[0, 1, 25, 16772431, 1683616322537, -848123231, 0, '2c3b470d', 0, 0, 0, '', 1, {'bulge_display': 1, 'emoticon_unique': 'room_23029447_14523', 'height': 162, 'in_player_area': 1, 'is_dynamic': 1, 'url': 'http://i0.hdslb.com/bfs/garb/8e17e7bb6e3adc356d6d2c960b6b518eb58b803e.png', 'width': 162}, '{}', {'mode': 0, 'show_player_type': 0, 'extra': '{"send_from_me":false,"mode":0,"color":16772431,"dm_type":1,"font_size":25,"player_mode":1,"show_player_type":0,"content":"打call","user_hash":"742082317","emoticon_unique":"room_23029447_14523","bulge_display":1,"recommend_score":0,"main_state_dm_color":"","objective_state_dm_color":"","direction":0,"pk_direction":0,"quartet_direction":0,"anniversary_crowd":0,"yeah_space_type":"","yeah_space_url":"","jump_to_url":"","space_type":"","space_url":"","animation":{},"emots":null,"is_audited":false,"id_str":"3f7e0f053e8ed72b3c9f42172181731758"}'}, {'activity_identity': '', 'activity_source': 0, 'not_show': 0}], '打call', [30880562, '暮影微凉√', 0, 0, 0, 10000, 1, ''], [27, '妖 饭团', '七濑Unia', 21514463, 398668, '', 0, 6809855, 398668, 6850801, 3, 1, 353361863], [36, 0, 10512625, '>50000', 0], ['', ''], 0, 0, None, {'ts': 1683616322, 'ct': '18E52EF6'}, 0, 0, None, None, 0, 70], 'dm_v2': 'CiIzZjdlMGYwNTNlOGVkNzJiM2M5ZjQyMTcyMTgxNzMxNzU4EAEYGSDP2v8HKggyYzNiNDcwZDIH5omTY2FsbDjpp+n6/zBIodXK6/z/////AWIAaAFydwoH5omTY2FsbBJsChNyb29tXzIzMDI5NDQ3XzE0NTIzEklodHRwOi8vaTAuaGRzbGIuY29tL2Jmcy9nYXJiLzhlMTdlN2JiNmUzYWRjMzU2ZDZkMmM5NjBiNmI1MThlYjU4YjgwM2UucG5nGAEgASgBMKIBOKIBigEAmgEQCggxOEU1MkVGNhDC5OeiBqIBoQEIsubcDhIP5pqu5b2x5b6u5YeJ4oiaIkpodHRwczovL2kyLmhkc2xiLmNvbS9iZnMvZmFjZS8zN2MyZWYyODMyZDdiN2EyMDRmOTc3NTIzZGI4M2EzZmMwNDcyYTRkLmpwZziQTkABWiMIGxIJ5aaW6aWt5ZuiIMyqGDD/0Z8DOMyqGEDxkaIDSANQAWIPCCQQ8dGBBRoGPjUwMDAwagByAKoBFwjHv7+oARIK5LiD5r+RVW5pYRjHzf0K'}}
