@@ -1,1 +1,2 @@
-from .DanmuMsg import DanmuMsgInstance, DanmuMsg
+from .DanmuMsg import DanmuMsg
+from .config import *
